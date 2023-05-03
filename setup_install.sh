@@ -1,7 +1,7 @@
 mydir=/home/kulkarnu
 cd $mydir
 #sudo apt-get -y install libboost-all-dev libeigen3-dev  libflann-dev python3-vtk7 qhull-bin openni-utils freeglut3-dev libusb-1.0-0-dev libudev-dev python3-pcl pcl-tools cmake freeglut3-dev pkg-config
-sudo apt-get -y install libpcl-dev python3-pcl pcl-tools
+sudo apt-get -y install libpcl-dev python3-pcl pcl-tools cmake
 
 pip3 install -U open3d PyntCloud pyvista
 
