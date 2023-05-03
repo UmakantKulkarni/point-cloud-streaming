@@ -1,5 +1,6 @@
 # point-cloud-streaming
 
+```
 git clone https://github.com/UmakantKulkarni/point-cloud-streaming
 
 cd point-cloud-streaming
@@ -11,3 +12,4 @@ cd build
 cmake ..
 
 make
+```
